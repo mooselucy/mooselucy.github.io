@@ -20,6 +20,6 @@
 }
 body {
   background-image: url('peak.jpg') center;
-  backgroung-repeat = no-repeat;
+  backgroung-repeat: no-repeat;
   background-size: cover;
 }
