@@ -19,5 +19,6 @@
   color: white;
 }
 body {
-  background: url("./style/peak.jpg");
+  background: url("https://github.com/mooselucy/mooselucy.github.io/blob/master/style/peak.jpg")no-repeat center fixed ;
+  background-size: cover;
 }
