@@ -20,5 +20,6 @@
 }
 body {
   background-image: url('peak.jpg');
+  background-repeat: no-repeat;
   background-size: cover;
 }
