@@ -19,6 +19,6 @@
   color: white;
 }
 body {
-  background-image: url(./style/peak.jpg);
+  background-image: url('peak.jpg');
   background-size: cover;
 }
