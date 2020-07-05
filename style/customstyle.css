@@ -20,8 +20,8 @@
 }
 body {
    background: url(peak.jpg);
-/*    background-position: center;
-  -webkit-background-size: cover;
+    background-position: center;
+/*   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;  */
   background-size: cover;
