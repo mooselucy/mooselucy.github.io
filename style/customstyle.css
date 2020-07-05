@@ -19,7 +19,7 @@
   color: white;
 }
 body {
-  background-image: url('peak.jpg') center;
+  background-image: url('peak.jpg');
   background-position: center;
   backgroung-repeat: no-repeat;
   background-size: cover;
