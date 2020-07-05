@@ -20,7 +20,7 @@
 }
 body {
   background: url('peak.jpg');
-  /*background-position: center fixed;
-  backgroung-repeat: no-repeat;*/
+  background-position: center fixed;
+  backgroung-repeat: no-repeat;
   background-size: cover;
 }
