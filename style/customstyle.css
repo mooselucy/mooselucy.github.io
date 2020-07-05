@@ -1,3 +1,27 @@
 .btn-success {
   .button-variant(@btn-default-color; @btn-default-bg; @btn-default-border);
 }
+.center {
+  /* position: absolute;
+  top: 40%;
+  left: 65%;
+   -moz-transform: translateX(-50%) translateY(-50%);
+  -webkit-transform: translateX(-50%) translateY(-50%);
+  transform: translateX(-50%) translateY(-50%);*/
+  border: 1px solid black;
+  width: 600px;
+  position: absolute;
+  top: 20%;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  color: white;
+}
+.center p {
+  margin: 10px;
+  color: white;
+}
+body {
+  background: url('peak.jpg') no-repeat center fixed ;
+  background-size: cover;
+}
