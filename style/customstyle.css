@@ -19,8 +19,8 @@
   color: white;
 }
 body {
-  background: url('peak.jpg');
-  /*background-position: center fixed;*/
+  background-image: url('peak.jpg');
+  background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
 }
