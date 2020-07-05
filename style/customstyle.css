@@ -19,6 +19,6 @@
   color: white;
 }
 body {
-  background-image: url("https://github.com/mooselucy/mooselucy.github.io/blob/master/style/peak.jpg") no-repeat center fixed ;
+  background-image: url(./style/peak.jpg);
   background-size: cover;
 }
