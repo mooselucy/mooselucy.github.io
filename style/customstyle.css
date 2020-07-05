@@ -19,6 +19,5 @@
   color: white;
 }
 body {
-  background: url("./style/peak.jpg") no-repeat center fixed ;
-  background-size: cover;
+  background: url("./style/peak.jpg");
 }
